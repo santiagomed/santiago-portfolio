@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/santiago-portfolio/static/css/main.f59763b5.chunk.css",
-    "main.js": "/santiago-portfolio/static/js/main.994fd3e6.chunk.js",
-    "main.js.map": "/santiago-portfolio/static/js/main.994fd3e6.chunk.js.map",
+    "main.js": "/santiago-portfolio/static/js/main.bc86daf3.chunk.js",
+    "main.js.map": "/santiago-portfolio/static/js/main.bc86daf3.chunk.js.map",
     "runtime-main.js": "/santiago-portfolio/static/js/runtime-main.7966af48.js",
     "runtime-main.js.map": "/santiago-portfolio/static/js/runtime-main.7966af48.js.map",
     "static/css/2.d6127afd.chunk.css": "/santiago-portfolio/static/css/2.d6127afd.chunk.css",
@@ -14,7 +14,7 @@
     "static/css/2.d6127afd.chunk.css.map": "/santiago-portfolio/static/css/2.d6127afd.chunk.css.map",
     "static/css/main.f59763b5.chunk.css.map": "/santiago-portfolio/static/css/main.f59763b5.chunk.css.map",
     "static/js/2.1bd3a597.chunk.js.LICENSE.txt": "/santiago-portfolio/static/js/2.1bd3a597.chunk.js.LICENSE.txt",
-    "static/media/SantiagoMedinaResume.25017bb5.pdf": "/santiago-portfolio/static/media/SantiagoMedinaResume.25017bb5.pdf",
+    "static/media/SantiagoMedinaResume.15e3314c.pdf": "/santiago-portfolio/static/media/SantiagoMedinaResume.15e3314c.pdf",
     "static/media/Vision.f03beada.png": "/santiago-portfolio/static/media/Vision.f03beada.png",
     "static/media/cplusplus.svg": "/santiago-portfolio/static/media/cplusplus.2441702d.svg",
     "static/media/devicon.min.css": "/santiago-portfolio/static/media/devicon.da3914c3.ttf",
@@ -28,6 +28,6 @@
     "static/css/2.d6127afd.chunk.css",
     "static/js/2.1bd3a597.chunk.js",
     "static/css/main.f59763b5.chunk.css",
-    "static/js/main.994fd3e6.chunk.js"
+    "static/js/main.bc86daf3.chunk.js"
   ]
 }
